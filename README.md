@@ -3,9 +3,9 @@
 Simple Fully Connected Neural Network implemented in Matlab
 
 Dataset: MNIST Subset<br />  
-  Training Set : 3000 Samples [300 x 10]<br />
-  Validation Set : 1000 Samples [100 x 10]<br />
-  Testing Set : 3000 [300 x 10]<br />
+<br /> Training Set : 3000 Samples [300 x 10]<br />
+<br /> Validation Set : 1000 Samples [100 x 10]<br />
+<br /> Testing Set : 3000 [300 x 10]<br />
   
 Model Architecture:
 
