@@ -20,5 +20,6 @@ Architecture Variations:
 Results:
   
  ![Alt text](https://cloud.githubusercontent.com/assets/5204400/18943193/1a442784-85ec-11e6-8a7f-3907c4c578cb.jpg)
+ ![Alt text](https://cloud.githubusercontent.com/assets/5204400/18943413/74678ea8-85ed-11e6-8ac7-dba50fe330a6.jpg)
  
- 
+ Using  all  the  hyper-parameters  mentioned  in  above  table  gave  best  validation  accuracy  (94%).   Testaccuracy with this model is 92.7%
