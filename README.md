@@ -11,7 +11,7 @@ Model Architecture:<br />
   Inputs [784] -> FCN1[500] -> Sigmoid -> Dropout[0.5] -> FCN2[500] -> Sigmoid -> Dropout[0.5] -> Outputs[10]
 
 Implementation:<br />
-  1. Forward Prop, Back Prop Algorithm with SGD (Batchsize : 1)
+  1. Forward Prop, Back Prop Algorithm with SGD with modularity.
 
 Architecture Variations:
   1. Number of layers in the architecture can be changed by adjusting the params in 'run.m' file
