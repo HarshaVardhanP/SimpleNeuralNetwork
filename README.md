@@ -19,6 +19,6 @@ Architecture Variations:
   
 Results:
   
- [! Alt text](https://cloud.githubusercontent.com/assets/5204400/18943193/1a442784-85ec-11e6-8a7f-3907c4c578cb.jpg)
+ ![Alt text](https://cloud.githubusercontent.com/assets/5204400/18943193/1a442784-85ec-11e6-8a7f-3907c4c578cb.jpg)
  
  
