@@ -23,3 +23,10 @@ Results:
  ![Alt text](https://cloud.githubusercontent.com/assets/5204400/18943413/74678ea8-85ed-11e6-8ac7-dba50fe330a6.jpg)
  
  Using  all  the  hyper-parameters  mentioned  in  above  table  gave  best  validation  accuracy  (94%).   Testaccuracy with this model is 92.7%
+ 
+Hyper - Parameter Effects:
+1. Error Rate with multiple Learning Rate values 
+![Alt text] (https://cloud.githubusercontent.com/assets/5204400/18943453/ac472806-85ed-11e6-994e-828381608da8.jpg)
+
+
+ 
