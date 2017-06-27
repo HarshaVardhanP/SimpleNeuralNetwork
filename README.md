@@ -30,6 +30,7 @@ Results:
  
 Hyper - Parameter Effects:<br />
 1. Error Rate w.r.t multiple Learning Rate values 
+
  ![alt text] (https://cloud.githubusercontent.com/assets/5204400/18943453/ac472806-85ed-11e6-994e-828381608da8.jpg)
 2. Error Rate w.r.t Hidden Units  
 ![Alt text] (https://cloud.githubusercontent.com/assets/5204400/18943462/bc4c2256-85ed-11e6-88b5-b32d26f85fee.jpg)
